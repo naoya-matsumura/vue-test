@@ -2,7 +2,7 @@
   "name": "vue-sample",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "main": "src/App.Vue"
+  "main": "src/App.Vue",
   "author": "naoya-matsumura <naoya.matsumura@jp.fujitsu.com>",
   "private": true,
   "scripts": {
